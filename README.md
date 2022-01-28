@@ -1,2 +1,2 @@
-# blue-front
+# bluebird-front
 Sistema de Gerenciamento de Finanças
